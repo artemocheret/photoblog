@@ -14,6 +14,13 @@ body {
   line-height: 1.35;
   color: var(--color-text-primary);
 }
+.container {
+  max-width: 936px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
 .nav-link {
   color: var(--color-text-navigation);
   text-decoration: none;
